@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile - GrowMate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="nav-logo">🌱 GrowMate</a>
+        <div class="nav-links">
+            <a href="login.html">Login</a>
+            <a href="register.html">Register</a>
+            <a href="profile.html">Profile</a>
+        </div>
+    </nav>
+    <div class="container">
+        <header style="text-align:center;">
+            <h1>Your Profile</h1>
+        </header>
+        <div style="display:flex;flex-direction:column;align-items:center;gap:18px;margin-top:18px;">
+            <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f464.png" alt="Avatar" style="width:80px;height:80px;border-radius:50%;box-shadow:0 2px 12px rgba(67,160,71,0.13);background:#f0fff0;border:2px solid #b2dfdb;">
+            <div style="font-size:1.2rem;font-weight:600;color:#2e7d32;">John Doe</div>
+            <div style="color:#388e3c;">johndoe@email.com</div>
+            <div class="tip-output" style="max-width:320px;">🌟 <b>GrowMate Usage:</b><br>Predictions made: <b>12</b><br>Favorite plant: <b>Rose</b><br>Member since: <b>2024</b></div>
+            <button style="margin-top:10px;background:#e53935;color:#fff;padding:10px 24px;border:none;border-radius:8px;font-weight:600;cursor:pointer;">Logout</button>
+        </div>
+    </div>
+    <script>
+    document.querySelector('button').addEventListener('click', function() {
+        alert('Logout functionality is a placeholder. Connect to backend to enable.');
+    });
+    </script>
+</body>
+</html> 

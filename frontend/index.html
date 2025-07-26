@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrowMate - Plant Watering Predictor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="nav-logo">🌱 GrowMate</a>
+        <div class="nav-links">
+            <a href="login.html">Login</a>
+            <a href="register.html">Register</a>
+            <a href="profile.html">Profile</a>
+        </div>
+    </nav>
+    <div class="container">
+        <header>
+            <h1>🌱 GrowMate</h1>
+            <p>AI-powered Plant Watering Status Predictor</p>
+        </header>
+        <form id="predict-form">
+            <!-- Plant image preview -->
+            <div id="plant-image-container" class="plant-image-container hidden">
+                <img id="plant-image" src="" alt="Plant Image" />
+            </div>
+            <div class="form-group">
+                <label for="plant_name">Plant Name</label>
+                <select id="plant_name" name="plant_name" required>
+                    <option value="rose">Rose</option>
+                    <option value="basil">Basil</option>
+                    <option value="mint">Mint</option>
+                    <option value="cactus">Cactus</option>
+                    <option value="aloe_vera">Aloe Vera</option>
+                    <option value="spider_plant">Spider Plant</option>
+                    <option value="money_plant">Money Plant</option>
+                    <option value="peace_lily">Peace Lily</option>
+                    <option value="tomato">Tomato</option>
+                    <option value="snake_plant">Snake Plant</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="soil_type">Soil Type</label>
+                <select id="soil_type" name="soil_type" required>
+                    <option value="sandy">Sandy</option>
+                    <option value="loamy">Loamy</option>
+                    <option value="clayey">Clayey</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="soil_ph">Soil pH (5.5 - 7.5)</label>
+                <input type="number" step="0.1" min="5.5" max="7.5" id="soil_ph" name="soil_ph" value="6.5" required>
+            </div>
+            <div class="form-group">
+                <label for="soil_nitrogen">Soil Nitrogen (ppm)</label>
+                <input type="number" min="0" max="100" id="soil_nitrogen" name="soil_nitrogen" value="20" required>
+            </div>
+            <div class="form-group">
+                <label for="soil_phosphorus">Soil Phosphorus (ppm)</label>
+                <input type="number" min="0" max="100" id="soil_phosphorus" name="soil_phosphorus" value="15" required>
+            </div>
+            <div class="form-group">
+                <label for="soil_potassium">Soil Potassium (ppm)</label>
+                <input type="number" min="0" max="100" id="soil_potassium" name="soil_potassium" value="25" required>
+            </div>
+            <div class="form-group">
+                <label for="plant_age_weeks">Plant Age (weeks)</label>
+                <input type="number" min="1" max="52" id="plant_age_weeks" name="plant_age_weeks" value="10" required>
+            </div>
+            <div class="form-group">
+                <label for="last_watered_days">Days Since Last Watered</label>
+                <input type="number" min="0" max="60" id="last_watered_days" name="last_watered_days" value="3" required>
+            </div>
+            <div class="form-group">
+                <label for="temperature">Temperature (°C)</label>
+                <input type="number" min="0" max="60" id="temperature" name="temperature" value="25" required>
+            </div>
+            <div class="form-group">
+                <label for="humidity">Humidity (%)</label>
+                <input type="number" min="0" max="100" id="humidity" name="humidity" value="55" required>
+            </div>
+            <div class="form-group">
+                <label for="rainfall">Rainfall (mm)</label>
+                <input type="number" min="0" max="100" id="rainfall" name="rainfall" value="0" required>
+            </div>
+            <div class="form-group">
+                <label for="season">Season</label>
+                <select id="season" name="season" required>
+                    <option value="summer">Summer</option>
+                    <option value="winter">Winter</option>
+                    <option value="rainy">Rainy</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="sunlight_exposure">Sunlight Exposure</label>
+                <select id="sunlight_exposure" name="sunlight_exposure" required>
+                    <option value="low_light">Low Light</option>
+                    <option value="indirect_light">Indirect Light</option>
+                    <option value="partial_sun">Partial Sun</option>
+                    <option value="full_sun">Full Sun</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="pot_or_ground">Pot or Ground</label>
+                <select id="pot_or_ground" name="pot_or_ground" required>
+                    <option value="pot">Pot</option>
+                    <option value="ground">Ground</option>
+                </select>
+            </div>
+            <button type="submit">Predict Watering Status</button>
+        </form>
+        <!-- Loading spinner -->
+        <div id="loading-spinner" class="hidden">
+            <div class="spinner"></div>
+            <span>Predicting...</span>
+        </div>
+        <section id="result" class="hidden">
+            <h2>Prediction Result</h2>
+            <div id="prediction-output"></div>
+            <div id="tip-output" class="tip-output"></div>
+        </section>
+        <!-- Confetti canvas -->
+        <canvas id="confetti-canvas" class="hidden"></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
