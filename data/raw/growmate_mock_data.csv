@@ -1,0 +1,501 @@
+plant_name,plant_type,pot_or_ground,soil_type,soil_ph,soil_nitrogen,soil_phosphorus,soil_potassium,plant_age_weeks,sunlight_exposure,last_watered_days,temperature,humidity,rainfall,season,watering_status
+Cactus,Outdoor,Ground,Sandy,6.0,31,23,25,68,Full Sun,6,22.0,71,8.1,Autumn,0
+Snake Plant,Indoor,Ground,Loamy,7.7,61,42,40,77,Low Light,3,26.3,73,1.4,Winter,0
+Snake Plant,Indoor,Ground,Loamy,7.2,74,34,50,53,Low Light,1,29.1,56,13.9,Spring,0
+Cactus,Outdoor,Ground,Sandy,5.7,21,12,18,13,Full Sun,5,25.9,64,13.9,Winter,0
+Rose,Outdoor,Pot,Clayey,7.7,48,43,54,89,Full Sun,5,34.7,34,5.8,Monsoon,0
+Mint,Outdoor,Pot,Loamy,5.7,73,51,57,60,Partial Sun,5,35.2,82,9.7,Monsoon,0
+Aloe Vera,Outdoor,Ground,Sandy,6.3,38,20,21,72,Full Sun,0,36.7,34,1.0,Summer,0
+Peace Lily,Indoor,Ground,Loamy,5.9,65,30,43,7,Low Light,2,24.0,55,7.1,Monsoon,0
+Basil,Indoor,Pot,Loamy,6.5,57,54,44,19,Partial Sun,4,36.8,83,11.4,Spring,0
+Tomato,Outdoor,Ground,Loamy,6.8,47,54,34,7,Full Sun,1,16.6,31,9.9,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,6.2,26,18,24,97,Full Sun,3,24.5,46,1.6,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.6,62,42,46,64,Indirect Light,1,24.7,85,4.3,Autumn,0
+Rose,Outdoor,Ground,Clayey,8.0,42,25,66,56,Full Sun,3,29.1,76,14.3,Winter,0
+Spider Plant,Indoor,Ground,Loamy,7.2,75,31,60,28,Indirect Light,4,29.8,47,3.8,Summer,1
+Cactus,Outdoor,Ground,Sandy,7.7,28,20,22,3,Full Sun,7,20.2,59,2.2,Summer,1
+Tomato,Outdoor,Pot,Loamy,7.1,68,36,49,20,Full Sun,6,22.8,50,17.7,Autumn,0
+Money Plant,Indoor,Ground,Loamy,6.9,68,35,33,72,Indirect Light,2,32.1,30,6.6,Monsoon,0
+Rose,Outdoor,Ground,Clayey,6.9,35,29,58,52,Full Sun,1,36.2,53,19.5,Monsoon,0
+Rose,Outdoor,Pot,Clayey,7.6,36,28,61,56,Full Sun,0,26.3,85,7.5,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.4,56,55,48,79,Indirect Light,0,16.5,48,3.3,Spring,0
+Basil,Indoor,Ground,Loamy,6.4,68,43,53,54,Partial Sun,0,32.4,73,14.4,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,6.3,61,51,45,73,Low Light,1,25.2,34,10.6,Monsoon,0
+Tomato,Outdoor,Pot,Loamy,7.0,63,48,60,56,Full Sun,0,31.2,67,13.9,Spring,0
+Rose,Outdoor,Ground,Clayey,6.4,36,35,46,59,Full Sun,4,23.3,72,17.9,Autumn,0
+Basil,Indoor,Ground,Loamy,7.7,78,39,53,42,Partial Sun,1,19.1,70,9.8,Summer,0
+Cactus,Outdoor,Ground,Sandy,6.6,29,30,22,6,Full Sun,4,28.5,63,15.6,Winter,0
+Peace Lily,Indoor,Ground,Loamy,7.0,71,39,49,23,Low Light,1,25.1,59,14.7,Monsoon,0
+Aloe Vera,Outdoor,Ground,Sandy,6.0,24,20,19,77,Full Sun,3,37.6,59,0.7,Summer,2
+Cactus,Outdoor,Pot,Sandy,6.3,32,11,20,49,Full Sun,7,24.0,59,10.7,Winter,0
+Cactus,Outdoor,Pot,Sandy,6.4,26,27,23,65,Full Sun,7,17.5,75,1.1,Winter,0
+Tomato,Outdoor,Ground,Loamy,7.1,68,37,44,45,Full Sun,4,35.8,64,19.6,Winter,0
+Money Plant,Indoor,Ground,Loamy,6.0,67,48,49,23,Indirect Light,7,18.0,53,8.6,Summer,0
+Aloe Vera,Outdoor,Pot,Sandy,7.2,29,30,18,53,Full Sun,2,21.0,78,0.8,Spring,0
+Cactus,Outdoor,Ground,Sandy,7.9,39,27,25,36,Full Sun,7,27.0,60,14.1,Summer,0
+Aloe Vera,Outdoor,Pot,Sandy,5.9,25,11,16,64,Full Sun,0,35.9,51,0.0,Winter,0
+Cactus,Outdoor,Ground,Sandy,7.7,39,26,21,37,Full Sun,3,36.3,85,14.9,Spring,0
+Aloe Vera,Outdoor,Pot,Sandy,6.7,38,18,17,4,Full Sun,1,18.0,68,12.5,Summer,0
+Rose,Outdoor,Pot,Clayey,7.8,34,31,49,77,Full Sun,2,26.6,67,17.6,Winter,0
+Cactus,Outdoor,Ground,Sandy,5.5,30,25,25,6,Full Sun,1,15.6,63,5.1,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,5.6,68,36,37,83,Low Light,3,28.2,72,10.1,Autumn,0
+Tomato,Outdoor,Ground,Loamy,6.7,71,41,47,70,Full Sun,1,20.5,84,19.6,Monsoon,0
+Mint,Outdoor,Ground,Loamy,7.1,67,56,55,92,Partial Sun,2,22.0,67,8.2,Winter,0
+Money Plant,Indoor,Ground,Loamy,5.8,46,60,47,61,Indirect Light,3,26.9,46,16.8,Summer,0
+Cactus,Outdoor,Pot,Sandy,7.8,35,30,23,92,Full Sun,1,30.4,66,16.3,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,5.7,47,40,32,46,Indirect Light,4,36.5,51,11.6,Autumn,0
+Rose,Outdoor,Pot,Clayey,6.6,41,40,50,58,Full Sun,6,37.0,39,8.5,Winter,0
+Snake Plant,Indoor,Ground,Loamy,6.8,44,49,55,76,Low Light,1,36.6,52,13.3,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,6.0,25,24,22,86,Full Sun,3,37.3,42,4.3,Spring,2
+Aloe Vera,Outdoor,Ground,Sandy,6.8,33,25,25,68,Full Sun,6,17.6,45,15.6,Winter,0
+Rose,Outdoor,Pot,Clayey,7.7,48,33,66,67,Full Sun,4,26.9,64,10.8,Winter,0
+Cactus,Outdoor,Ground,Sandy,6.9,36,14,21,47,Full Sun,0,27.1,31,19.5,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,7.7,28,18,15,76,Full Sun,6,37.2,33,13.6,Summer,0
+Basil,Indoor,Ground,Loamy,5.8,46,36,37,7,Partial Sun,6,24.8,45,7.6,Summer,0
+Mint,Outdoor,Ground,Loamy,5.6,48,48,48,76,Partial Sun,0,26.0,48,17.2,Summer,0
+Spider Plant,Indoor,Ground,Loamy,5.7,45,49,41,71,Indirect Light,1,26.8,59,4.9,Winter,2
+Mint,Outdoor,Pot,Loamy,6.9,65,57,52,36,Partial Sun,3,16.2,68,8.7,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,6.3,27,19,19,39,Full Sun,7,37.7,66,6.9,Autumn,0
+Mint,Outdoor,Ground,Loamy,6.5,45,51,58,60,Partial Sun,7,19.8,57,14.0,Summer,0
+Money Plant,Indoor,Ground,Loamy,6.9,72,44,35,68,Indirect Light,3,23.1,39,9.6,Winter,0
+Rose,Outdoor,Ground,Clayey,5.5,37,43,59,89,Full Sun,6,28.9,61,5.2,Winter,0
+Mint,Outdoor,Pot,Loamy,7.4,73,60,38,100,Partial Sun,5,36.7,38,15.9,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.2,77,58,43,16,Indirect Light,7,19.2,36,7.5,Winter,0
+Cactus,Outdoor,Ground,Sandy,6.3,31,27,23,45,Full Sun,7,28.7,67,19.8,Monsoon,0
+Rose,Outdoor,Ground,Clayey,6.3,31,25,45,27,Full Sun,0,18.9,34,4.7,Spring,2
+Money Plant,Indoor,Ground,Loamy,6.3,76,43,35,63,Indirect Light,7,15.8,71,18.7,Monsoon,0
+Money Plant,Indoor,Pot,Loamy,6.0,70,44,50,2,Indirect Light,7,31.2,41,1.5,Winter,1
+Money Plant,Indoor,Pot,Loamy,6.6,55,43,44,26,Indirect Light,5,23.3,68,1.4,Summer,1
+Rose,Outdoor,Pot,Clayey,7.8,49,42,55,8,Full Sun,0,15.5,83,11.1,Autumn,0
+Rose,Outdoor,Ground,Clayey,7.6,48,39,66,29,Full Sun,3,20.3,44,1.6,Monsoon,2
+Rose,Outdoor,Pot,Clayey,6.7,40,37,70,23,Full Sun,5,37.5,32,9.5,Monsoon,0
+Mint,Outdoor,Pot,Loamy,7.7,41,48,53,65,Partial Sun,2,30.7,59,14.5,Spring,0
+Cactus,Outdoor,Pot,Sandy,6.5,20,30,17,68,Full Sun,6,18.2,58,15.9,Monsoon,0
+Money Plant,Indoor,Pot,Loamy,5.9,58,56,36,37,Indirect Light,3,34.9,69,1.7,Winter,0
+Tomato,Outdoor,Ground,Loamy,5.6,76,35,44,23,Full Sun,7,16.3,82,2.0,Winter,0
+Money Plant,Indoor,Ground,Loamy,6.0,49,31,53,56,Indirect Light,1,30.0,90,13.1,Autumn,0
+Spider Plant,Indoor,Pot,Loamy,7.7,68,45,45,5,Indirect Light,2,31.6,54,13.1,Spring,0
+Money Plant,Indoor,Pot,Loamy,6.6,63,56,35,22,Indirect Light,4,19.1,46,18.0,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.6,69,51,56,46,Indirect Light,5,26.1,36,5.8,Winter,0
+Spider Plant,Indoor,Ground,Loamy,6.3,71,32,44,44,Indirect Light,1,18.3,57,17.2,Winter,0
+Snake Plant,Indoor,Pot,Loamy,7.1,76,41,34,71,Low Light,2,35.0,53,12.8,Monsoon,0
+Money Plant,Indoor,Pot,Loamy,6.5,62,31,56,18,Indirect Light,6,25.6,41,19.7,Summer,0
+Basil,Indoor,Pot,Loamy,7.7,40,40,41,88,Partial Sun,0,15.9,51,12.3,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.0,55,38,32,45,Indirect Light,6,16.9,79,6.9,Winter,0
+Cactus,Outdoor,Ground,Sandy,6.7,33,21,15,98,Full Sun,1,32.9,55,14.6,Spring,0
+Cactus,Outdoor,Ground,Sandy,7.3,33,23,19,16,Full Sun,2,26.9,90,2.1,Monsoon,0
+Basil,Indoor,Ground,Loamy,7.5,50,55,43,2,Partial Sun,0,32.8,38,12.7,Summer,0
+Basil,Indoor,Pot,Loamy,7.7,65,43,37,10,Partial Sun,0,29.2,51,18.0,Spring,0
+Tomato,Outdoor,Ground,Loamy,6.6,61,53,55,42,Full Sun,4,16.5,71,8.4,Spring,0
+Snake Plant,Indoor,Ground,Loamy,5.8,61,55,37,28,Low Light,1,29.5,69,5.0,Monsoon,0
+Peace Lily,Indoor,Pot,Loamy,7.9,56,59,52,72,Low Light,6,36.8,44,13.4,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,7.7,31,27,19,79,Full Sun,7,26.5,68,1.8,Summer,1
+Spider Plant,Indoor,Ground,Loamy,5.9,44,58,49,30,Indirect Light,1,27.4,73,4.5,Autumn,0
+Money Plant,Indoor,Ground,Loamy,7.7,47,55,60,86,Indirect Light,5,23.6,30,19.5,Monsoon,0
+Spider Plant,Indoor,Pot,Loamy,6.9,75,57,31,36,Indirect Light,0,37.1,70,15.8,Spring,0
+Tomato,Outdoor,Pot,Loamy,7.3,54,30,53,44,Full Sun,2,28.4,52,6.7,Monsoon,0
+Tomato,Outdoor,Pot,Loamy,6.5,69,57,54,34,Full Sun,2,29.1,63,13.3,Autumn,0
+Aloe Vera,Outdoor,Ground,Sandy,8.0,27,10,20,83,Full Sun,5,22.1,70,7.8,Autumn,0
+Tomato,Outdoor,Pot,Loamy,7.6,77,56,31,45,Full Sun,0,33.8,41,17.6,Spring,0
+Mint,Outdoor,Pot,Loamy,6.9,48,44,43,3,Partial Sun,6,27.7,76,6.0,Spring,0
+Snake Plant,Indoor,Pot,Loamy,7.6,78,49,34,84,Low Light,4,16.5,66,4.8,Autumn,1
+Cactus,Outdoor,Pot,Sandy,5.6,27,11,16,96,Full Sun,0,33.2,61,11.5,Autumn,0
+Cactus,Outdoor,Ground,Sandy,5.6,23,13,19,20,Full Sun,7,27.0,50,11.2,Monsoon,0
+Tomato,Outdoor,Pot,Loamy,6.4,45,43,35,55,Full Sun,5,34.7,35,18.3,Monsoon,0
+Money Plant,Indoor,Pot,Loamy,6.6,51,38,33,36,Indirect Light,0,19.5,69,2.3,Summer,2
+Aloe Vera,Outdoor,Pot,Sandy,6.1,29,18,23,101,Full Sun,1,30.2,58,9.3,Spring,0
+Spider Plant,Indoor,Ground,Loamy,6.8,42,30,42,85,Indirect Light,6,18.0,90,13.2,Summer,0
+Cactus,Outdoor,Pot,Sandy,5.8,38,20,23,97,Full Sun,2,36.5,75,8.4,Autumn,0
+Money Plant,Indoor,Pot,Loamy,6.7,43,42,58,42,Indirect Light,0,20.1,47,8.3,Summer,0
+Mint,Outdoor,Ground,Loamy,6.5,54,30,53,50,Partial Sun,3,24.4,57,6.7,Summer,0
+Money Plant,Indoor,Ground,Loamy,6.3,62,60,49,33,Indirect Light,7,25.6,87,4.4,Summer,0
+Peace Lily,Indoor,Pot,Loamy,7.9,74,33,32,93,Low Light,2,19.8,90,4.7,Summer,0
+Basil,Indoor,Ground,Loamy,7.5,75,45,50,83,Partial Sun,5,32.2,81,5.7,Monsoon,0
+Tomato,Outdoor,Ground,Loamy,7.2,73,37,48,94,Full Sun,1,22.0,45,2.3,Spring,2
+Basil,Indoor,Pot,Loamy,6.6,66,34,53,75,Partial Sun,7,35.7,57,4.4,Autumn,1
+Tomato,Outdoor,Pot,Loamy,6.2,53,47,54,48,Full Sun,1,30.1,77,11.7,Summer,0
+Tomato,Outdoor,Ground,Loamy,6.6,69,45,56,102,Full Sun,6,25.8,48,4.3,Summer,1
+Basil,Indoor,Ground,Loamy,5.7,69,50,48,50,Partial Sun,7,20.7,75,10.5,Winter,0
+Cactus,Outdoor,Pot,Sandy,6.2,29,24,18,32,Full Sun,7,30.7,59,1.9,Monsoon,1
+Snake Plant,Indoor,Pot,Loamy,6.4,63,40,39,79,Low Light,0,30.0,89,2.8,Summer,0
+Spider Plant,Indoor,Pot,Loamy,7.5,51,37,53,62,Indirect Light,4,29.5,81,0.9,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,7.9,31,25,21,63,Full Sun,1,27.5,74,1.2,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,7.2,78,30,44,32,Low Light,1,38.0,45,8.6,Autumn,0
+Basil,Indoor,Pot,Loamy,7.5,63,41,48,19,Partial Sun,5,32.2,71,0.1,Autumn,0
+Aloe Vera,Outdoor,Pot,Sandy,6.3,39,23,22,47,Full Sun,4,31.7,56,18.0,Winter,0
+Cactus,Outdoor,Pot,Sandy,7.1,27,16,17,74,Full Sun,2,24.9,39,0.2,Autumn,0
+Peace Lily,Indoor,Pot,Loamy,6.4,55,52,43,14,Low Light,0,22.1,73,10.3,Autumn,0
+Mint,Outdoor,Ground,Loamy,6.3,72,45,54,29,Partial Sun,4,18.9,76,8.3,Autumn,0
+Spider Plant,Indoor,Ground,Loamy,7.8,62,56,32,101,Indirect Light,7,31.3,70,8.0,Winter,0
+Rose,Outdoor,Pot,Clayey,7.8,44,32,51,7,Full Sun,1,15.7,31,4.3,Monsoon,2
+Spider Plant,Indoor,Ground,Loamy,6.3,77,56,57,76,Indirect Light,7,26.3,60,1.8,Winter,1
+Tomato,Outdoor,Ground,Loamy,5.8,67,46,33,37,Full Sun,3,22.8,46,14.0,Winter,0
+Tomato,Outdoor,Ground,Loamy,5.7,80,32,42,96,Full Sun,6,19.1,82,12.6,Winter,0
+Snake Plant,Indoor,Pot,Loamy,6.5,61,48,40,55,Low Light,4,31.4,30,6.9,Winter,0
+Peace Lily,Indoor,Pot,Loamy,7.3,58,44,48,87,Low Light,4,15.5,33,3.4,Spring,1
+Mint,Outdoor,Ground,Loamy,5.7,66,55,50,62,Partial Sun,0,23.2,57,16.9,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,7.6,29,27,20,46,Full Sun,3,31.8,40,0.1,Summer,2
+Peace Lily,Indoor,Ground,Loamy,5.7,56,41,30,32,Low Light,0,19.3,59,5.7,Spring,0
+Spider Plant,Indoor,Pot,Loamy,6.9,64,46,30,7,Indirect Light,5,20.3,79,9.0,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,6.0,51,33,60,64,Low Light,6,36.4,87,3.0,Autumn,0
+Mint,Outdoor,Pot,Loamy,6.0,75,58,46,16,Partial Sun,4,26.9,40,18.8,Winter,0
+Money Plant,Indoor,Ground,Loamy,7.9,66,33,49,85,Indirect Light,1,35.5,33,18.9,Monsoon,0
+Spider Plant,Indoor,Pot,Loamy,6.7,57,52,46,68,Indirect Light,5,23.3,37,18.5,Spring,0
+Snake Plant,Indoor,Ground,Loamy,7.1,63,42,30,82,Low Light,7,30.6,80,19.5,Summer,0
+Snake Plant,Indoor,Ground,Loamy,7.6,61,40,38,30,Low Light,0,23.6,85,18.9,Winter,0
+Spider Plant,Indoor,Ground,Loamy,5.7,42,33,32,16,Indirect Light,7,37.1,42,17.8,Autumn,0
+Rose,Outdoor,Pot,Clayey,7.5,47,41,44,78,Full Sun,7,23.7,50,18.2,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,7.6,78,34,44,48,Indirect Light,6,26.4,72,12.6,Autumn,0
+Rose,Outdoor,Ground,Clayey,5.8,48,25,42,49,Full Sun,6,28.7,67,4.5,Autumn,1
+Cactus,Outdoor,Ground,Sandy,6.5,32,15,19,4,Full Sun,0,25.9,56,2.6,Monsoon,2
+Money Plant,Indoor,Pot,Loamy,7.4,74,33,41,81,Indirect Light,4,23.4,75,6.4,Summer,0
+Basil,Indoor,Pot,Loamy,7.4,77,37,46,102,Partial Sun,3,18.9,70,6.5,Summer,0
+Spider Plant,Indoor,Pot,Loamy,6.9,63,34,54,51,Indirect Light,0,32.9,77,10.0,Spring,0
+Tomato,Outdoor,Pot,Loamy,6.3,63,57,55,98,Full Sun,6,19.5,88,1.3,Autumn,0
+Tomato,Outdoor,Pot,Loamy,7.7,53,57,31,88,Full Sun,5,33.9,65,9.5,Winter,0
+Cactus,Outdoor,Ground,Sandy,7.7,37,24,25,52,Full Sun,1,15.7,78,18.9,Autumn,0
+Spider Plant,Indoor,Pot,Loamy,7.8,78,49,59,48,Indirect Light,2,21.4,64,19.8,Autumn,0
+Aloe Vera,Outdoor,Ground,Sandy,6.0,35,12,19,15,Full Sun,6,25.1,32,4.1,Winter,1
+Mint,Outdoor,Ground,Loamy,6.9,59,53,41,67,Partial Sun,2,16.2,76,18.6,Monsoon,0
+Mint,Outdoor,Ground,Loamy,6.1,72,54,57,50,Partial Sun,5,22.7,81,3.5,Spring,0
+Mint,Outdoor,Pot,Loamy,7.8,68,41,49,33,Partial Sun,0,17.4,81,0.4,Spring,0
+Rose,Outdoor,Pot,Clayey,6.8,38,44,40,13,Full Sun,7,32.2,45,3.6,Spring,1
+Spider Plant,Indoor,Pot,Loamy,5.6,58,34,34,78,Indirect Light,4,37.1,73,16.2,Summer,0
+Mint,Outdoor,Pot,Loamy,6.0,44,53,56,26,Partial Sun,2,20.7,39,8.6,Monsoon,0
+Spider Plant,Indoor,Ground,Loamy,7.0,50,36,50,35,Indirect Light,6,20.7,79,5.8,Winter,0
+Cactus,Outdoor,Pot,Sandy,7.6,37,16,22,36,Full Sun,3,37.0,61,9.1,Monsoon,0
+Basil,Indoor,Ground,Loamy,6.0,43,37,39,69,Partial Sun,1,20.1,67,5.2,Summer,0
+Rose,Outdoor,Pot,Clayey,6.1,49,30,56,18,Full Sun,0,16.2,31,12.7,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,5.5,35,21,25,54,Full Sun,1,19.6,43,19.5,Autumn,0
+Tomato,Outdoor,Pot,Loamy,5.9,52,46,37,50,Full Sun,0,37.8,79,10.4,Spring,0
+Aloe Vera,Outdoor,Ground,Sandy,6.1,33,14,25,18,Full Sun,2,24.7,42,4.7,Spring,0
+Mint,Outdoor,Ground,Loamy,6.7,42,58,41,94,Partial Sun,2,28.5,41,15.4,Monsoon,0
+Mint,Outdoor,Pot,Loamy,7.5,40,52,58,45,Partial Sun,0,15.4,61,8.2,Summer,0
+Peace Lily,Indoor,Ground,Loamy,7.3,44,41,36,68,Low Light,7,35.9,63,14.7,Summer,0
+Tomato,Outdoor,Pot,Loamy,5.7,73,59,57,58,Full Sun,1,20.1,30,1.3,Spring,2
+Mint,Outdoor,Ground,Loamy,7.7,76,30,36,42,Partial Sun,1,21.4,84,2.6,Summer,0
+Peace Lily,Indoor,Ground,Loamy,6.8,67,45,38,17,Low Light,2,37.7,41,6.3,Spring,0
+Rose,Outdoor,Pot,Clayey,6.8,50,41,53,83,Full Sun,0,22.6,70,17.9,Summer,0
+Peace Lily,Indoor,Ground,Loamy,6.2,80,39,33,36,Low Light,0,21.3,54,11.2,Summer,0
+Rose,Outdoor,Ground,Clayey,6.6,43,34,50,42,Full Sun,1,33.3,31,16.6,Winter,0
+Cactus,Outdoor,Pot,Sandy,6.7,32,28,16,3,Full Sun,5,27.9,71,1.9,Winter,0
+Money Plant,Indoor,Pot,Loamy,7.0,73,47,51,46,Indirect Light,0,34.2,61,10.2,Summer,0
+Mint,Outdoor,Ground,Loamy,7.2,80,33,38,92,Partial Sun,0,33.2,58,18.1,Winter,0
+Money Plant,Indoor,Ground,Loamy,5.6,63,39,45,59,Indirect Light,5,15.1,87,9.4,Winter,0
+Mint,Outdoor,Ground,Loamy,5.9,73,51,53,45,Partial Sun,6,37.1,32,7.6,Winter,0
+Money Plant,Indoor,Ground,Loamy,7.2,57,43,54,71,Indirect Light,3,36.2,70,16.5,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,7.6,20,21,23,95,Full Sun,0,36.0,47,14.5,Monsoon,0
+Cactus,Outdoor,Pot,Sandy,5.9,20,26,17,75,Full Sun,1,32.5,41,14.9,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,6.7,31,29,24,53,Full Sun,2,35.8,54,14.8,Winter,0
+Aloe Vera,Outdoor,Ground,Sandy,5.5,38,11,25,10,Full Sun,0,25.2,44,8.8,Winter,0
+Peace Lily,Indoor,Pot,Loamy,7.4,79,59,60,50,Low Light,6,18.1,35,6.5,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,7.3,31,24,16,77,Full Sun,2,27.7,56,17.8,Monsoon,0
+Basil,Indoor,Ground,Loamy,7.3,52,48,42,4,Partial Sun,0,32.1,81,12.1,Winter,0
+Mint,Outdoor,Pot,Loamy,5.7,53,33,53,94,Partial Sun,2,17.9,80,13.0,Spring,0
+Peace Lily,Indoor,Pot,Loamy,6.6,56,39,43,55,Low Light,1,18.3,43,14.2,Winter,0
+Basil,Indoor,Ground,Loamy,5.9,58,56,34,19,Partial Sun,1,35.0,86,4.1,Winter,0
+Spider Plant,Indoor,Pot,Loamy,5.6,78,40,56,10,Indirect Light,1,33.7,32,19.1,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,6.8,50,43,56,17,Low Light,7,17.6,39,9.4,Monsoon,0
+Basil,Indoor,Ground,Loamy,7.8,76,45,47,22,Partial Sun,0,26.1,75,15.9,Summer,0
+Peace Lily,Indoor,Ground,Loamy,7.3,74,34,44,99,Low Light,7,32.8,86,9.5,Autumn,0
+Basil,Indoor,Ground,Loamy,5.6,71,31,51,49,Partial Sun,1,15.2,80,16.1,Autumn,0
+Tomato,Outdoor,Ground,Loamy,7.9,60,42,47,43,Full Sun,1,15.9,83,15.1,Spring,0
+Snake Plant,Indoor,Ground,Loamy,6.2,78,51,60,55,Low Light,0,25.5,69,14.5,Winter,0
+Money Plant,Indoor,Pot,Loamy,7.5,44,53,55,79,Indirect Light,2,18.8,45,6.3,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,6.1,42,60,48,57,Low Light,4,29.4,65,13.0,Summer,0
+Money Plant,Indoor,Ground,Loamy,6.4,40,45,51,82,Indirect Light,5,24.2,87,10.3,Winter,0
+Money Plant,Indoor,Pot,Loamy,7.4,42,33,34,62,Indirect Light,4,16.7,46,17.8,Summer,0
+Aloe Vera,Outdoor,Pot,Sandy,6.3,25,28,21,71,Full Sun,5,37.2,44,11.2,Spring,0
+Tomato,Outdoor,Pot,Loamy,6.1,51,52,32,90,Full Sun,7,25.9,85,1.1,Winter,0
+Mint,Outdoor,Pot,Loamy,7.6,63,57,54,27,Partial Sun,3,23.7,80,10.2,Spring,0
+Money Plant,Indoor,Pot,Loamy,6.3,46,42,42,91,Indirect Light,3,17.5,63,2.9,Autumn,0
+Mint,Outdoor,Pot,Loamy,5.5,64,47,49,68,Partial Sun,2,32.6,46,3.0,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,7.4,31,26,18,33,Full Sun,3,36.5,54,6.5,Winter,0
+Peace Lily,Indoor,Ground,Loamy,6.4,48,55,49,6,Low Light,3,33.3,68,8.7,Winter,0
+Money Plant,Indoor,Ground,Loamy,5.8,64,43,58,43,Indirect Light,3,22.4,75,0.2,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,7.9,22,22,24,15,Full Sun,1,27.3,34,10.7,Spring,0
+Mint,Outdoor,Pot,Loamy,5.6,65,48,49,49,Partial Sun,5,36.6,65,14.2,Summer,0
+Basil,Indoor,Ground,Loamy,7.9,80,53,37,46,Partial Sun,7,29.5,51,3.8,Spring,1
+Cactus,Outdoor,Ground,Sandy,6.5,37,11,19,35,Full Sun,1,18.0,73,4.8,Monsoon,0
+Rose,Outdoor,Pot,Clayey,6.6,43,34,44,39,Full Sun,0,20.4,75,20.0,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,7.4,22,14,20,90,Full Sun,3,16.6,53,8.6,Autumn,0
+Tomato,Outdoor,Pot,Loamy,7.7,68,50,43,54,Full Sun,0,24.3,53,5.4,Summer,0
+Money Plant,Indoor,Ground,Loamy,6.6,77,36,59,41,Indirect Light,2,21.6,44,19.5,Monsoon,0
+Spider Plant,Indoor,Pot,Loamy,7.8,41,60,34,41,Indirect Light,3,17.7,89,1.0,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,6.7,38,18,24,65,Full Sun,1,23.9,43,7.2,Summer,0
+Snake Plant,Indoor,Pot,Loamy,7.7,80,47,38,45,Low Light,5,32.7,79,9.5,Summer,0
+Snake Plant,Indoor,Pot,Loamy,5.6,62,55,39,26,Low Light,1,30.9,53,4.6,Monsoon,0
+Peace Lily,Indoor,Ground,Loamy,6.6,70,31,54,61,Low Light,4,31.6,90,8.5,Autumn,0
+Cactus,Outdoor,Ground,Sandy,8.0,36,22,20,80,Full Sun,1,18.4,46,0.0,Monsoon,2
+Mint,Outdoor,Ground,Loamy,7.0,79,35,32,98,Partial Sun,5,31.8,78,18.5,Autumn,0
+Rose,Outdoor,Ground,Clayey,5.6,36,38,66,66,Full Sun,3,15.7,82,15.3,Autumn,0
+Aloe Vera,Outdoor,Ground,Sandy,7.0,28,15,20,48,Full Sun,7,28.5,75,7.5,Autumn,0
+Rose,Outdoor,Ground,Clayey,6.6,49,43,51,45,Full Sun,3,25.0,64,13.4,Monsoon,0
+Mint,Outdoor,Ground,Loamy,7.3,61,41,37,47,Partial Sun,3,34.2,37,19.7,Winter,0
+Mint,Outdoor,Pot,Loamy,7.7,51,54,52,71,Partial Sun,0,15.5,58,15.6,Spring,0
+Tomato,Outdoor,Pot,Loamy,7.3,65,34,60,102,Full Sun,1,20.3,30,4.0,Summer,2
+Mint,Outdoor,Pot,Loamy,5.9,57,38,33,46,Partial Sun,3,32.8,90,8.3,Winter,0
+Mint,Outdoor,Pot,Loamy,7.9,42,37,38,57,Partial Sun,6,32.1,62,6.9,Monsoon,0
+Cactus,Outdoor,Pot,Sandy,7.7,24,18,23,4,Full Sun,2,15.6,67,19.8,Monsoon,0
+Peace Lily,Indoor,Pot,Loamy,6.1,55,30,57,16,Low Light,2,31.3,65,0.2,Winter,0
+Peace Lily,Indoor,Ground,Loamy,6.9,61,32,52,81,Low Light,2,19.5,36,10.1,Autumn,0
+Peace Lily,Indoor,Pot,Loamy,7.3,43,45,58,60,Low Light,4,25.8,63,17.2,Winter,0
+Cactus,Outdoor,Pot,Sandy,5.7,35,12,25,99,Full Sun,5,37.3,82,18.7,Summer,0
+Mint,Outdoor,Pot,Loamy,6.9,62,40,51,6,Partial Sun,5,37.4,42,13.4,Monsoon,0
+Spider Plant,Indoor,Pot,Loamy,7.2,65,43,46,5,Indirect Light,3,21.6,64,14.6,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,8.0,45,30,59,61,Low Light,2,29.4,36,12.0,Autumn,0
+Aloe Vera,Outdoor,Ground,Sandy,7.5,39,25,22,63,Full Sun,0,33.7,42,8.2,Winter,0
+Spider Plant,Indoor,Ground,Loamy,7.2,78,36,38,98,Indirect Light,0,29.6,62,14.6,Summer,0
+Rose,Outdoor,Ground,Clayey,6.0,48,35,50,72,Full Sun,6,23.8,33,9.5,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.0,78,31,59,53,Indirect Light,1,25.1,36,6.3,Summer,0
+Rose,Outdoor,Pot,Clayey,6.2,45,40,60,82,Full Sun,5,26.1,39,0.7,Summer,1
+Money Plant,Indoor,Pot,Loamy,5.7,49,38,57,50,Indirect Light,3,19.2,76,13.4,Winter,0
+Snake Plant,Indoor,Pot,Loamy,5.9,63,49,55,103,Low Light,4,31.7,42,6.0,Autumn,0
+Snake Plant,Indoor,Pot,Loamy,7.7,66,35,59,99,Low Light,4,23.3,83,10.4,Spring,0
+Aloe Vera,Outdoor,Ground,Sandy,7.1,21,24,22,70,Full Sun,1,27.0,31,6.1,Summer,0
+Peace Lily,Indoor,Pot,Loamy,6.4,74,43,37,26,Low Light,3,24.6,87,0.6,Summer,0
+Peace Lily,Indoor,Pot,Loamy,7.8,49,36,48,48,Low Light,0,31.0,35,4.5,Autumn,2
+Tomato,Outdoor,Ground,Loamy,6.9,79,31,46,23,Full Sun,2,26.2,44,16.8,Spring,0
+Peace Lily,Indoor,Ground,Loamy,6.9,53,39,30,40,Low Light,7,29.7,47,11.1,Summer,0
+Spider Plant,Indoor,Pot,Loamy,6.9,76,44,55,69,Indirect Light,1,19.5,77,9.7,Winter,0
+Rose,Outdoor,Pot,Clayey,7.4,45,29,66,98,Full Sun,7,37.9,55,6.7,Summer,0
+Mint,Outdoor,Ground,Loamy,7.4,72,51,57,103,Partial Sun,4,37.4,68,4.6,Spring,1
+Aloe Vera,Outdoor,Pot,Sandy,6.7,34,11,18,11,Full Sun,2,27.7,82,14.4,Autumn,0
+Tomato,Outdoor,Ground,Loamy,6.9,66,51,30,4,Full Sun,1,35.2,81,12.8,Summer,0
+Peace Lily,Indoor,Pot,Loamy,5.6,47,39,40,25,Low Light,3,20.2,58,3.3,Spring,2
+Mint,Outdoor,Pot,Loamy,5.7,64,40,47,29,Partial Sun,2,22.0,69,7.2,Winter,0
+Basil,Indoor,Ground,Loamy,6.9,78,39,59,66,Partial Sun,5,26.6,59,15.2,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,7.6,44,49,50,30,Low Light,2,25.3,58,0.2,Summer,2
+Snake Plant,Indoor,Pot,Loamy,6.5,71,51,30,90,Low Light,3,15.3,73,18.6,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.1,68,36,57,82,Indirect Light,6,30.8,58,13.8,Summer,0
+Mint,Outdoor,Pot,Loamy,7.0,44,56,54,19,Partial Sun,7,35.7,46,0.9,Monsoon,1
+Basil,Indoor,Pot,Loamy,6.9,47,46,43,2,Partial Sun,7,32.2,80,6.8,Summer,0
+Money Plant,Indoor,Pot,Loamy,7.9,43,47,36,95,Indirect Light,2,18.9,33,8.1,Summer,0
+Spider Plant,Indoor,Pot,Loamy,5.9,62,52,49,74,Indirect Light,5,31.6,47,4.8,Summer,1
+Rose,Outdoor,Ground,Clayey,5.7,34,34,64,43,Full Sun,2,36.1,44,0.8,Monsoon,0
+Spider Plant,Indoor,Ground,Loamy,6.5,80,48,42,61,Indirect Light,4,18.6,38,6.2,Summer,0
+Rose,Outdoor,Ground,Clayey,5.9,37,37,46,73,Full Sun,2,22.1,79,0.1,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.9,68,41,38,2,Indirect Light,6,17.8,74,4.9,Spring,0
+Rose,Outdoor,Pot,Clayey,5.6,35,26,50,62,Full Sun,3,26.4,70,2.5,Spring,2
+Mint,Outdoor,Pot,Loamy,6.7,55,43,41,13,Partial Sun,0,33.5,46,2.4,Autumn,2
+Money Plant,Indoor,Ground,Loamy,7.4,63,53,39,97,Indirect Light,2,24.1,76,2.1,Monsoon,0
+Spider Plant,Indoor,Ground,Loamy,7.9,54,41,59,64,Indirect Light,4,20.1,70,8.1,Spring,0
+Rose,Outdoor,Ground,Clayey,6.6,40,30,56,73,Full Sun,3,23.8,47,6.8,Monsoon,0
+Spider Plant,Indoor,Ground,Loamy,6.8,78,53,55,93,Indirect Light,6,24.2,86,12.2,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,7.4,20,21,18,50,Full Sun,4,32.5,33,9.3,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,6.2,31,10,15,19,Full Sun,2,20.7,43,14.4,Autumn,0
+Aloe Vera,Outdoor,Pot,Sandy,6.5,40,27,15,42,Full Sun,4,15.5,38,6.8,Spring,0
+Rose,Outdoor,Pot,Clayey,7.4,31,33,68,72,Full Sun,1,26.3,77,19.3,Winter,0
+Cactus,Outdoor,Pot,Sandy,7.5,36,16,15,99,Full Sun,4,15.4,34,17.7,Winter,0
+Peace Lily,Indoor,Pot,Loamy,6.1,64,50,36,52,Low Light,1,30.6,75,14.5,Summer,0
+Money Plant,Indoor,Pot,Loamy,6.1,49,37,56,71,Indirect Light,6,28.1,76,3.7,Monsoon,0
+Cactus,Outdoor,Pot,Sandy,6.7,22,17,24,56,Full Sun,6,22.5,85,4.8,Summer,0
+Basil,Indoor,Pot,Loamy,7.0,80,42,47,61,Partial Sun,1,36.3,57,5.5,Spring,0
+Snake Plant,Indoor,Pot,Loamy,5.7,62,42,36,15,Low Light,4,20.4,50,6.3,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,6.4,34,11,23,9,Full Sun,4,21.6,76,19.1,Spring,0
+Aloe Vera,Outdoor,Pot,Sandy,6.1,31,23,22,56,Full Sun,1,17.5,55,12.7,Autumn,0
+Money Plant,Indoor,Ground,Loamy,7.5,80,38,37,42,Indirect Light,4,19.6,86,6.1,Summer,0
+Basil,Indoor,Ground,Loamy,7.4,61,30,59,38,Partial Sun,0,23.7,48,19.1,Autumn,0
+Mint,Outdoor,Pot,Loamy,6.7,79,52,38,60,Partial Sun,2,34.6,31,10.6,Spring,0
+Peace Lily,Indoor,Ground,Loamy,6.3,47,42,49,19,Low Light,2,27.6,48,0.1,Spring,2
+Aloe Vera,Outdoor,Pot,Sandy,8.0,23,18,23,21,Full Sun,1,22.7,43,15.6,Autumn,0
+Cactus,Outdoor,Ground,Sandy,5.9,32,18,20,24,Full Sun,2,35.6,42,0.5,Monsoon,0
+Rose,Outdoor,Ground,Clayey,6.2,45,28,55,50,Full Sun,1,26.0,56,6.0,Summer,0
+Spider Plant,Indoor,Pot,Loamy,6.4,44,33,49,81,Indirect Light,2,35.1,39,0.0,Monsoon,2
+Spider Plant,Indoor,Pot,Loamy,6.1,46,30,45,19,Indirect Light,7,17.8,33,4.3,Monsoon,1
+Mint,Outdoor,Ground,Loamy,7.6,79,58,30,95,Partial Sun,1,29.3,32,4.5,Winter,2
+Snake Plant,Indoor,Ground,Loamy,7.8,68,34,37,19,Low Light,7,37.9,51,12.9,Spring,0
+Snake Plant,Indoor,Pot,Loamy,6.0,43,55,50,91,Low Light,6,37.6,56,6.6,Monsoon,0
+Peace Lily,Indoor,Pot,Loamy,6.7,52,60,30,51,Low Light,3,28.6,44,5.0,Monsoon,0
+Spider Plant,Indoor,Pot,Loamy,6.8,52,36,34,66,Indirect Light,7,24.7,43,4.3,Winter,1
+Spider Plant,Indoor,Pot,Loamy,7.6,48,60,32,24,Indirect Light,4,34.1,46,13.9,Summer,0
+Money Plant,Indoor,Pot,Loamy,7.7,48,51,57,29,Indirect Light,7,27.3,87,16.7,Autumn,0
+Rose,Outdoor,Ground,Clayey,5.8,49,29,50,70,Full Sun,3,15.6,53,5.0,Monsoon,2
+Money Plant,Indoor,Ground,Loamy,6.4,42,33,51,89,Indirect Light,0,32.7,70,0.4,Winter,0
+Money Plant,Indoor,Pot,Loamy,5.9,72,38,40,90,Indirect Light,5,18.1,82,13.1,Winter,0
+Cactus,Outdoor,Pot,Sandy,5.8,32,28,17,76,Full Sun,5,36.2,42,10.1,Summer,0
+Rose,Outdoor,Ground,Clayey,6.0,36,45,70,10,Full Sun,7,33.3,56,16.2,Spring,0
+Spider Plant,Indoor,Pot,Loamy,6.0,71,36,46,63,Indirect Light,7,31.8,75,10.9,Summer,0
+Cactus,Outdoor,Pot,Sandy,7.9,23,11,24,86,Full Sun,7,19.4,77,3.1,Summer,0
+Basil,Indoor,Ground,Loamy,6.9,48,33,42,96,Partial Sun,6,32.8,80,12.1,Autumn,0
+Cactus,Outdoor,Pot,Sandy,7.4,29,23,17,6,Full Sun,4,21.7,59,4.6,Summer,1
+Rose,Outdoor,Pot,Clayey,6.8,38,38,67,34,Full Sun,1,35.7,64,17.8,Autumn,0
+Spider Plant,Indoor,Pot,Loamy,7.1,58,43,40,98,Indirect Light,5,24.7,69,1.9,Autumn,1
+Aloe Vera,Outdoor,Pot,Sandy,5.5,37,18,17,4,Full Sun,3,35.0,82,12.4,Monsoon,0
+Peace Lily,Indoor,Ground,Loamy,6.5,69,46,32,24,Low Light,6,29.9,88,18.5,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,7.2,21,11,15,94,Full Sun,5,35.7,41,13.4,Spring,0
+Cactus,Outdoor,Pot,Sandy,5.7,21,14,15,104,Full Sun,1,31.9,60,5.2,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.3,54,41,38,60,Indirect Light,7,16.0,75,13.2,Winter,0
+Aloe Vera,Outdoor,Ground,Sandy,7.7,40,10,22,52,Full Sun,1,24.2,84,9.3,Summer,0
+Aloe Vera,Outdoor,Pot,Sandy,6.9,32,18,21,38,Full Sun,6,37.7,39,4.8,Monsoon,1
+Mint,Outdoor,Pot,Loamy,7.0,78,42,34,46,Partial Sun,3,37.9,51,16.6,Spring,0
+Peace Lily,Indoor,Ground,Loamy,6.6,77,58,30,46,Low Light,7,19.9,90,5.4,Monsoon,0
+Peace Lily,Indoor,Pot,Loamy,7.3,59,31,44,83,Low Light,0,27.5,38,15.9,Monsoon,0
+Basil,Indoor,Ground,Loamy,7.3,62,31,39,22,Partial Sun,4,20.8,67,1.4,Autumn,1
+Spider Plant,Indoor,Pot,Loamy,6.1,75,54,33,82,Indirect Light,7,35.9,41,7.5,Winter,0
+Mint,Outdoor,Ground,Loamy,7.5,77,59,40,31,Partial Sun,5,20.4,32,14.0,Spring,0
+Aloe Vera,Outdoor,Ground,Sandy,6.8,30,14,19,74,Full Sun,6,32.4,43,9.3,Winter,0
+Aloe Vera,Outdoor,Ground,Sandy,7.0,38,18,22,60,Full Sun,5,28.8,39,12.1,Autumn,0
+Snake Plant,Indoor,Ground,Loamy,5.6,76,56,32,74,Low Light,3,25.4,69,6.0,Autumn,0
+Basil,Indoor,Ground,Loamy,7.7,46,45,49,50,Partial Sun,7,25.9,66,13.9,Spring,0
+Rose,Outdoor,Pot,Clayey,6.9,38,41,46,80,Full Sun,4,19.0,54,12.5,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,6.9,21,16,24,52,Full Sun,6,31.0,47,2.7,Spring,1
+Peace Lily,Indoor,Ground,Loamy,6.3,65,53,51,98,Low Light,1,23.1,88,9.6,Summer,0
+Aloe Vera,Outdoor,Ground,Sandy,6.5,33,20,19,82,Full Sun,5,19.4,53,3.2,Autumn,1
+Tomato,Outdoor,Ground,Loamy,7.6,44,44,49,25,Full Sun,7,33.5,71,3.8,Monsoon,0
+Aloe Vera,Outdoor,Ground,Sandy,6.2,24,14,22,35,Full Sun,4,27.9,88,9.9,Winter,0
+Tomato,Outdoor,Pot,Loamy,6.4,40,54,41,24,Full Sun,7,21.8,45,19.1,Autumn,0
+Snake Plant,Indoor,Pot,Loamy,6.9,40,47,55,71,Low Light,4,35.8,90,15.1,Autumn,0
+Peace Lily,Indoor,Pot,Loamy,5.6,74,51,50,102,Low Light,6,19.6,43,17.4,Winter,0
+Mint,Outdoor,Pot,Loamy,5.6,62,40,38,72,Partial Sun,6,36.3,55,5.1,Autumn,0
+Basil,Indoor,Pot,Loamy,7.5,60,32,57,18,Partial Sun,4,16.8,89,9.6,Summer,0
+Basil,Indoor,Ground,Loamy,7.3,76,57,47,34,Partial Sun,7,31.1,53,14.5,Winter,0
+Rose,Outdoor,Pot,Clayey,5.8,31,28,54,70,Full Sun,5,35.4,83,17.5,Spring,0
+Mint,Outdoor,Ground,Loamy,6.9,53,49,43,22,Partial Sun,2,25.8,37,18.8,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.4,51,58,33,8,Indirect Light,5,18.4,66,14.8,Winter,0
+Cactus,Outdoor,Ground,Sandy,6.6,26,11,22,15,Full Sun,5,15.1,31,8.8,Summer,0
+Mint,Outdoor,Pot,Loamy,7.0,45,46,53,45,Partial Sun,2,17.9,51,13.4,Autumn,0
+Snake Plant,Indoor,Ground,Loamy,6.2,42,57,40,37,Low Light,4,26.1,90,11.8,Autumn,0
+Basil,Indoor,Pot,Loamy,7.5,66,32,57,42,Partial Sun,5,27.3,38,17.3,Autumn,0
+Mint,Outdoor,Ground,Loamy,6.8,80,32,54,22,Partial Sun,2,16.6,74,4.3,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,7.0,33,12,17,103,Full Sun,2,17.2,54,5.4,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,5.9,30,24,15,7,Full Sun,1,22.2,58,18.6,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,6.5,29,29,18,77,Full Sun,6,28.0,82,1.1,Summer,0
+Money Plant,Indoor,Pot,Loamy,5.6,54,45,52,37,Indirect Light,5,19.3,84,8.3,Spring,0
+Money Plant,Indoor,Pot,Loamy,7.4,40,60,53,75,Indirect Light,0,20.4,89,5.8,Spring,0
+Cactus,Outdoor,Pot,Sandy,7.7,28,21,18,79,Full Sun,7,34.1,37,12.4,Autumn,0
+Mint,Outdoor,Pot,Loamy,7.4,44,55,45,59,Partial Sun,4,31.0,59,1.0,Monsoon,1
+Tomato,Outdoor,Ground,Loamy,7.3,40,34,56,93,Full Sun,1,25.2,73,8.8,Spring,0
+Spider Plant,Indoor,Pot,Loamy,6.9,79,36,44,3,Indirect Light,2,22.0,75,13.1,Spring,0
+Aloe Vera,Outdoor,Pot,Sandy,6.0,24,24,15,42,Full Sun,5,37.2,74,17.0,Summer,0
+Snake Plant,Indoor,Pot,Loamy,6.1,42,46,33,68,Low Light,3,28.9,80,3.0,Autumn,0
+Basil,Indoor,Ground,Loamy,6.2,56,59,55,49,Partial Sun,5,17.7,85,14.1,Winter,0
+Basil,Indoor,Pot,Loamy,6.1,54,41,59,87,Partial Sun,3,27.0,68,5.5,Winter,0
+Mint,Outdoor,Ground,Loamy,7.2,51,39,41,23,Partial Sun,7,20.1,57,17.8,Summer,0
+Rose,Outdoor,Ground,Clayey,6.5,48,36,42,93,Full Sun,4,20.9,89,14.5,Monsoon,0
+Tomato,Outdoor,Ground,Loamy,5.5,75,54,41,81,Full Sun,2,24.5,58,13.5,Summer,0
+Rose,Outdoor,Ground,Clayey,5.9,41,32,42,61,Full Sun,6,33.8,34,11.7,Summer,0
+Aloe Vera,Outdoor,Pot,Sandy,7.3,34,17,24,92,Full Sun,0,24.7,87,13.4,Summer,0
+Cactus,Outdoor,Pot,Sandy,6.7,23,23,19,32,Full Sun,5,17.1,52,14.9,Monsoon,0
+Rose,Outdoor,Ground,Clayey,7.2,37,44,43,67,Full Sun,3,18.1,35,6.4,Autumn,0
+Peace Lily,Indoor,Pot,Loamy,7.3,68,44,46,20,Low Light,2,33.0,48,1.1,Winter,0
+Spider Plant,Indoor,Pot,Loamy,6.4,46,51,46,51,Indirect Light,4,16.0,80,16.6,Spring,0
+Cactus,Outdoor,Ground,Sandy,6.8,25,11,15,16,Full Sun,1,36.3,81,18.9,Spring,0
+Money Plant,Indoor,Ground,Loamy,6.8,44,58,43,23,Indirect Light,5,22.7,83,17.5,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,7.0,78,45,60,51,Indirect Light,6,35.2,38,6.3,Autumn,0
+Tomato,Outdoor,Pot,Loamy,8.0,41,43,54,78,Full Sun,3,30.1,37,16.7,Autumn,0
+Rose,Outdoor,Pot,Clayey,5.7,32,37,46,52,Full Sun,4,31.3,40,10.8,Monsoon,0
+Spider Plant,Indoor,Ground,Loamy,7.5,41,45,50,100,Indirect Light,5,27.3,89,2.9,Winter,0
+Spider Plant,Indoor,Ground,Loamy,6.5,67,42,42,45,Indirect Light,4,15.8,59,13.3,Winter,0
+Rose,Outdoor,Ground,Clayey,6.9,48,31,52,74,Full Sun,3,35.1,81,0.9,Summer,0
+Money Plant,Indoor,Ground,Loamy,6.9,60,42,40,28,Indirect Light,2,19.4,39,1.4,Spring,0
+Peace Lily,Indoor,Pot,Loamy,6.1,71,39,57,14,Low Light,1,20.6,90,6.4,Autumn,0
+Mint,Outdoor,Ground,Loamy,7.7,50,36,31,60,Partial Sun,2,25.3,43,6.9,Autumn,0
+Cactus,Outdoor,Ground,Sandy,7.6,24,26,21,83,Full Sun,5,34.1,37,8.4,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,7.8,27,21,16,31,Full Sun,6,31.9,90,13.1,Monsoon,0
+Rose,Outdoor,Ground,Clayey,7.8,43,30,41,42,Full Sun,4,24.5,87,9.2,Monsoon,0
+Cactus,Outdoor,Ground,Sandy,5.6,26,24,19,20,Full Sun,6,27.1,79,5.0,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,5.7,60,54,30,84,Low Light,5,31.0,37,6.9,Spring,0
+Money Plant,Indoor,Pot,Loamy,6.7,62,50,42,73,Indirect Light,5,35.7,58,3.9,Monsoon,1
+Mint,Outdoor,Pot,Loamy,5.5,77,43,32,3,Partial Sun,1,27.1,75,16.8,Spring,0
+Aloe Vera,Outdoor,Pot,Sandy,7.8,21,18,20,83,Full Sun,7,20.1,35,13.8,Spring,0
+Rose,Outdoor,Pot,Clayey,6.9,42,35,61,69,Full Sun,1,17.1,53,3.3,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,7.1,61,54,31,62,Low Light,5,26.3,33,15.3,Monsoon,0
+Basil,Indoor,Pot,Loamy,7.3,57,36,50,33,Partial Sun,4,25.0,64,14.3,Monsoon,0
+Mint,Outdoor,Ground,Loamy,6.7,66,55,46,72,Partial Sun,6,35.2,69,9.6,Autumn,0
+Aloe Vera,Outdoor,Pot,Sandy,7.0,37,21,15,41,Full Sun,5,24.3,61,13.5,Summer,0
+Snake Plant,Indoor,Pot,Loamy,7.5,66,50,32,39,Low Light,2,15.1,85,13.6,Winter,0
+Basil,Indoor,Ground,Loamy,7.1,63,43,42,71,Partial Sun,7,21.1,67,18.7,Spring,0
+Aloe Vera,Outdoor,Ground,Sandy,6.3,20,22,24,93,Full Sun,1,20.3,90,19.6,Autumn,0
+Money Plant,Indoor,Ground,Loamy,7.5,42,51,54,91,Indirect Light,0,23.0,54,14.8,Autumn,0
+Mint,Outdoor,Ground,Loamy,6.4,44,57,38,39,Partial Sun,0,23.4,55,8.5,Spring,0
+Rose,Outdoor,Pot,Clayey,6.1,46,36,52,31,Full Sun,5,22.6,48,9.4,Spring,0
+Snake Plant,Indoor,Pot,Loamy,7.5,40,58,38,97,Low Light,6,29.4,78,6.5,Autumn,0
+Spider Plant,Indoor,Pot,Loamy,6.7,53,41,45,102,Indirect Light,3,20.8,82,17.3,Spring,0
+Mint,Outdoor,Pot,Loamy,7.4,65,40,45,98,Partial Sun,7,15.6,90,5.0,Autumn,0
+Tomato,Outdoor,Ground,Loamy,6.3,44,38,56,96,Full Sun,0,26.3,38,8.2,Winter,0
+Peace Lily,Indoor,Ground,Loamy,6.2,65,55,32,11,Low Light,2,29.4,90,2.3,Autumn,0
+Money Plant,Indoor,Ground,Loamy,5.6,53,56,47,22,Indirect Light,7,19.4,66,16.6,Spring,0
+Spider Plant,Indoor,Ground,Loamy,7.2,61,42,43,96,Indirect Light,2,26.9,86,5.9,Winter,0
+Tomato,Outdoor,Ground,Loamy,6.3,68,45,40,36,Full Sun,0,26.8,61,11.2,Summer,0
+Tomato,Outdoor,Pot,Loamy,6.9,59,33,31,100,Full Sun,2,37.8,49,16.8,Winter,0
+Tomato,Outdoor,Ground,Loamy,7.7,79,51,42,65,Full Sun,5,29.0,56,11.9,Summer,0
+Basil,Indoor,Pot,Loamy,5.9,67,43,31,52,Partial Sun,6,35.8,36,13.0,Summer,0
+Tomato,Outdoor,Ground,Loamy,6.4,50,53,36,32,Full Sun,4,20.6,39,9.9,Summer,0
+Money Plant,Indoor,Ground,Loamy,7.6,63,41,38,19,Indirect Light,1,32.9,64,5.7,Spring,0
+Mint,Outdoor,Pot,Loamy,7.9,58,51,60,76,Partial Sun,7,18.8,57,10.8,Winter,0
+Peace Lily,Indoor,Ground,Loamy,5.7,61,48,45,18,Low Light,7,34.8,37,6.4,Spring,0
+Peace Lily,Indoor,Ground,Loamy,6.6,71,43,53,26,Low Light,7,31.4,77,6.2,Autumn,0
+Mint,Outdoor,Ground,Loamy,6.3,51,37,57,73,Partial Sun,7,28.3,85,17.4,Winter,0
+Tomato,Outdoor,Pot,Loamy,5.6,48,42,47,52,Full Sun,5,35.8,77,18.4,Autumn,0
+Spider Plant,Indoor,Pot,Loamy,5.8,51,36,51,75,Indirect Light,4,18.6,67,18.5,Summer,0
+Basil,Indoor,Pot,Loamy,6.7,42,55,31,96,Partial Sun,2,25.0,78,11.9,Winter,0
+Cactus,Outdoor,Ground,Sandy,6.6,33,26,17,44,Full Sun,1,26.8,41,13.8,Monsoon,0
+Tomato,Outdoor,Ground,Loamy,6.4,68,43,60,27,Full Sun,5,37.0,63,16.3,Winter,0
+Tomato,Outdoor,Pot,Loamy,7.6,60,42,33,2,Full Sun,1,32.5,44,13.8,Autumn,0
+Peace Lily,Indoor,Pot,Loamy,5.5,61,47,50,32,Low Light,1,30.5,80,19.4,Monsoon,0
+Aloe Vera,Outdoor,Pot,Sandy,6.6,37,26,17,32,Full Sun,6,21.1,49,2.8,Autumn,1
+Rose,Outdoor,Ground,Clayey,6.4,36,35,57,9,Full Sun,7,33.4,50,4.4,Winter,1
+Aloe Vera,Outdoor,Ground,Sandy,8.0,37,13,15,16,Full Sun,2,22.0,58,6.4,Summer,0
+Snake Plant,Indoor,Pot,Loamy,7.9,56,51,43,54,Low Light,3,22.4,84,6.3,Monsoon,0
+Mint,Outdoor,Ground,Loamy,7.8,73,45,31,36,Partial Sun,4,26.1,36,5.8,Spring,0
+Mint,Outdoor,Ground,Loamy,7.6,65,38,56,9,Partial Sun,3,17.6,41,12.6,Winter,0
+Cactus,Outdoor,Pot,Sandy,5.8,27,28,19,17,Full Sun,2,28.2,43,11.6,Summer,0
+Mint,Outdoor,Pot,Loamy,6.8,64,57,45,31,Partial Sun,6,26.7,90,10.4,Spring,0
+Tomato,Outdoor,Pot,Loamy,6.5,56,30,48,88,Full Sun,6,24.1,46,1.7,Autumn,1
+Rose,Outdoor,Pot,Clayey,6.6,40,41,57,94,Full Sun,6,29.6,38,18.4,Monsoon,0
+Rose,Outdoor,Pot,Clayey,6.3,48,30,65,75,Full Sun,5,26.8,32,11.1,Summer,0
+Cactus,Outdoor,Pot,Sandy,7.4,20,15,19,29,Full Sun,0,32.1,52,12.0,Spring,0
+Cactus,Outdoor,Ground,Sandy,6.3,34,29,19,19,Full Sun,0,15.2,84,7.6,Monsoon,0
+Tomato,Outdoor,Pot,Loamy,5.9,41,51,48,102,Full Sun,2,19.2,82,12.8,Autumn,0
+Cactus,Outdoor,Pot,Sandy,6.9,31,13,24,77,Full Sun,5,20.9,50,7.2,Spring,0
+Mint,Outdoor,Ground,Loamy,7.1,77,45,30,24,Partial Sun,2,21.8,34,10.9,Monsoon,0
+Money Plant,Indoor,Ground,Loamy,6.2,43,36,37,91,Indirect Light,2,23.3,51,6.4,Summer,0
+Basil,Indoor,Pot,Loamy,7.6,43,56,39,74,Partial Sun,1,30.8,42,9.9,Autumn,0
+Money Plant,Indoor,Ground,Loamy,7.1,63,39,39,83,Indirect Light,1,16.4,63,15.9,Summer,0
+Basil,Indoor,Pot,Loamy,5.5,42,42,51,18,Partial Sun,0,26.8,74,11.1,Autumn,0
+Snake Plant,Indoor,Ground,Loamy,6.6,45,51,55,39,Low Light,3,34.9,75,0.1,Spring,0
+Rose,Outdoor,Pot,Clayey,7.4,44,27,51,76,Full Sun,1,35.8,31,7.6,Winter,0
+Cactus,Outdoor,Ground,Sandy,7.9,28,21,16,28,Full Sun,4,36.9,46,7.4,Winter,0
+Peace Lily,Indoor,Ground,Loamy,5.9,77,52,47,40,Low Light,3,18.1,71,13.6,Winter,0
+Basil,Indoor,Ground,Loamy,7.0,49,38,43,87,Partial Sun,7,37.0,54,6.2,Winter,0
+Basil,Indoor,Pot,Loamy,6.9,56,36,39,87,Partial Sun,4,22.8,87,10.1,Winter,0
+Mint,Outdoor,Ground,Loamy,6.1,66,49,38,29,Partial Sun,5,28.8,71,4.7,Winter,0
+Peace Lily,Indoor,Ground,Loamy,7.6,79,41,38,21,Low Light,4,27.3,85,3.7,Summer,0
+Spider Plant,Indoor,Pot,Loamy,6.4,51,32,40,42,Indirect Light,3,25.6,47,14.1,Winter,0
+Tomato,Outdoor,Ground,Loamy,7.0,77,32,54,103,Full Sun,0,24.9,32,13.9,Winter,0
+Money Plant,Indoor,Ground,Loamy,7.2,73,32,44,47,Indirect Light,2,19.1,36,9.7,Winter,0
+Peace Lily,Indoor,Ground,Loamy,7.1,70,45,51,56,Low Light,0,23.6,55,15.6,Monsoon,0
+Mint,Outdoor,Ground,Loamy,5.9,65,47,39,48,Partial Sun,7,18.7,78,10.4,Summer,0
+Rose,Outdoor,Ground,Clayey,5.9,44,36,52,9,Full Sun,5,27.9,47,9.7,Winter,0
+Snake Plant,Indoor,Ground,Loamy,7.1,46,31,52,26,Low Light,0,27.0,71,19.6,Summer,0
+Rose,Outdoor,Ground,Clayey,7.5,31,34,65,81,Full Sun,6,33.3,81,0.6,Monsoon,0
+Snake Plant,Indoor,Pot,Loamy,7.3,41,35,32,35,Low Light,7,19.8,63,6.8,Spring,0
+Money Plant,Indoor,Ground,Loamy,7.9,64,53,36,70,Indirect Light,0,25.4,86,0.3,Spring,0
+Rose,Outdoor,Pot,Clayey,7.8,48,35,50,11,Full Sun,0,20.2,74,0.2,Monsoon,0
+Snake Plant,Indoor,Ground,Loamy,6.4,60,40,34,33,Low Light,4,30.3,86,2.0,Autumn,0
+Tomato,Outdoor,Pot,Loamy,6.2,73,58,55,28,Full Sun,6,33.0,86,12.1,Autumn,0
+Peace Lily,Indoor,Ground,Loamy,5.6,49,35,43,63,Low Light,6,27.8,82,0.5,Summer,0
+Cactus,Outdoor,Pot,Sandy,6.7,21,18,25,59,Full Sun,1,37.3,68,10.0,Spring,0
+Rose,Outdoor,Pot,Clayey,6.6,48,44,59,84,Full Sun,5,26.0,79,4.1,Spring,0
+Basil,Indoor,Pot,Loamy,7.0,75,58,54,104,Partial Sun,5,17.5,64,7.0,Winter,0
+Money Plant,Indoor,Ground,Loamy,5.5,57,30,48,52,Indirect Light,3,26.5,80,3.2,Spring,0
+Tomato,Outdoor,Ground,Loamy,7.4,62,38,57,36,Full Sun,6,35.2,81,17.0,Autumn,0
+Snake Plant,Indoor,Pot,Loamy,6.0,42,52,31,76,Low Light,3,18.7,46,15.2,Autumn,0
+Mint,Outdoor,Ground,Loamy,5.5,58,52,37,4,Partial Sun,4,33.2,83,17.6,Spring,0
+Basil,Indoor,Pot,Loamy,7.1,78,57,39,63,Partial Sun,3,37.2,62,11.7,Winter,0
+Basil,Indoor,Ground,Loamy,7.6,75,47,54,24,Partial Sun,4,15.7,64,9.1,Summer,0
+Peace Lily,Indoor,Ground,Loamy,7.8,76,60,43,64,Low Light,2,35.0,59,9.2,Autumn,0
+Basil,Indoor,Ground,Loamy,7.9,65,55,37,15,Partial Sun,7,27.5,36,5.0,Winter,1
+Peace Lily,Indoor,Pot,Loamy,7.5,41,39,47,48,Low Light,7,28.8,89,15.3,Summer,0
+Peace Lily,Indoor,Ground,Loamy,6.6,78,54,33,23,Low Light,6,19.8,47,8.8,Winter,0
+Aloe Vera,Outdoor,Pot,Sandy,6.9,33,29,15,41,Full Sun,5,28.1,87,6.5,Summer,0
+Mint,Outdoor,Pot,Loamy,7.1,59,45,60,13,Partial Sun,7,27.8,30,11.0,Autumn,0
+Cactus,Outdoor,Pot,Sandy,7.9,32,16,22,37,Full Sun,4,30.0,78,11.7,Spring,0
+Tomato,Outdoor,Ground,Loamy,6.3,80,54,40,42,Full Sun,5,30.2,55,5.3,Spring,0
+Snake Plant,Indoor,Pot,Loamy,7.6,45,54,39,101,Low Light,2,25.5,57,17.8,Winter,0
+Spider Plant,Indoor,Ground,Loamy,7.8,66,47,30,59,Indirect Light,1,31.8,38,17.5,Monsoon,0
+Peace Lily,Indoor,Pot,Loamy,8.0,52,39,31,67,Low Light,7,17.3,86,12.7,Summer,0
+Basil,Indoor,Ground,Loamy,6.8,41,37,41,11,Partial Sun,7,32.0,77,2.5,Autumn,0
+Spider Plant,Indoor,Ground,Loamy,5.8,49,36,36,78,Indirect Light,3,36.3,67,17.1,Winter,0
+Cactus,Outdoor,Ground,Sandy,5.9,20,10,22,86,Full Sun,3,20.4,54,18.4,Spring,0
